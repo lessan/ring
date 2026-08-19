@@ -1,0 +1,120 @@
+The ring — one page
+Reality as of 2026-08-19
+
+Lessan runs a personal AI ecosystem — about sixteen small repositories on a laptop and a home server, which he calls the ring. In his words it is "part experiment, part frontier pushing, and part useful in the immediate for myself and my family": a way to learn the frontier by putting it under real load, and a way to make regular, marked differences to the household. Publishing is deferred by his own ruling; this page is a bounded exception, shared discreetly.
+
+The shape. At the centre is brain — total memory, a synthesis layer, precedence and relationships, and a governed voice interface. Around it are members, each its own repository with its own vision and its own maturity bar. Researcher takes any topic and makes him an expert on it, producing packages that become new systems. Builder is his executive delegate: it surveys every sibling, finds its own work, carries each to that sibling's bar and stops. Conductor is the rails: one front door for all off-session compute, knowing every subscription's headroom; it cannot refuse work — it answers with a schedule. Domain members (Bahá'í Companion, finance, gardener, home, maker, service, ventures, an autonomous AI game studio) each own a slice of life; dashboard, the home server's record, the jobs adapter and this registry are the estate's infrastructure and outward face.
+
+How work gets done. Nothing important is trusted to one model family. Work is routed across Claude, OpenAI's Codex models, Grok, Gemini and a local model on the home server, by included subscription headroom rather than sticker price. Most work runs as headless jobs in isolated worktrees. Anything gated passes a cross-family review — whoever built it, a different family reviews it against a bar frozen at dispatch, refute-until-clear, and two failed fix cycles stop a lane. Builder runs an hourly tick that moves one lane one step and stops, plus a daily strategic session; anything only the owner can do is queued as a sitting, and the systems are told not to chase him. A supervision contract fixes what the AI may do without asking (its test is reversibility, not confidence) and a doctrine folder distilled from his own words is what autonomous decisions cite. Visions and the contract are his: the AI drafts, he ratifies.
+
+The people and the house. Five people are in scope — the owner, a partner, a daughter, a younger son and an elder son — and this site names them by role only. Personal facts live in a tenant data store that builder is forbidden to touch; that is the one hard boundary. A home server does three jobs at once: household storage and backups, a GPU running local models for anything that must not leave the house, and the ring's own git host; it also serves the household's short links, the daily brief and an ambient e-ink display on the owner's desk.
+
+Status words used below and across the site: live · built and verified · fixture-proven · planned · known-untested. Maturity is each member's position against its own bar; posture says whether it is moving, resting, blocked, dormant by ruling or pre-bar. Weaker word always wins.
+
+How to use this page. Treat it as enough context to give first-level, decision-oriented advice about any part of the ring — a recommendation with its reasoning and trade-offs, not a survey. Lessan decides and the AI advises; say plainly when something falls outside what this page tells you.
+
+Members — the ledger (roles only, never names):
+
+Centre
+
+Brain
+  Purpose: Lessan's second brain — total persistent memory plus a synthesis and relationship layer over every life domain, with a governed voice interface.
+  Maturity: 2 of 5 — 2026-08-19
+  Posture: moving
+  Roles: owner, partner, daughter, younger son
+
+Executive & rails
+
+Builder
+  Purpose: The build orchestrator and Lessan's executive delegate — surveys every sibling, finds its own work, carries each to that sibling's own maturity bar, and stops.
+  Maturity: protectorate bar — 2026-08-06
+  Posture: moving
+  Roles: owner
+
+Researcher
+  Purpose: The ring's research organ — take any topic and make Lessan an expert on it, usually as a package that builder turns into a system.
+  Maturity: 3 of 4 — 2026-08-07
+  Posture: moving
+  Roles: owner
+
+Conductor
+  Purpose: The rails — one front door for all off-session compute; members bring the what, conductor owns the when and the with-which-engine, and it cannot refuse work.
+  Maturity: 2 of 4 — 2026-08-19
+  Posture: resting-point
+  Roles: no roles declared
+
+Jobs (engine adapter)
+  Purpose: How any session in any repo hands work to another model — the engine adapter under conductor, and the canonical record of which model family suits which job.
+  Maturity: no independent maturity bar — 2026-08-03
+  Posture: moving
+  Roles: no roles declared
+
+Registry
+  Purpose: The ring's book of members and the rules between them, and its outward face — the member list, the interaction rules, the public-surface register, and the ring's own documentation site with its nightly self-update.
+  Maturity: pre-bar (born 2026-08-19; bar PROPOSED in vision v0, unratified) — 2026-08-19
+  Posture: pre-bar
+  Roles: no roles declared
+
+Domain
+
+Bahá'í Companion
+  Purpose: A query-driven intelligence system over a converted Bahá'í corpus — plain markdown, no database, no server; a trusted source other members consult, and the system the guidance reader and the public Q&A site are outputs of.
+  Maturity: 1 of 5 — 2026-08-11 session of Lessan's
+  Posture: moving
+  Roles: owner
+
+Finance
+  Purpose: AI-assisted investment research — monitoring, company analysis and deep secular-theme theses; the judgement half is parked on an interface in brain that does not exist yet.
+  Maturity: confidence-and-tooling bar — 2026-08-19 retired
+  Posture: structurally-blocked
+  Roles: owner
+
+Gardener
+  Purpose: A system of record for a garden that already exists — an organiser before it is an advisor.
+  Maturity: 4 of 5 — 2026-08-11
+  Posture: resting-point
+  Roles: owner, household
+
+Home
+  Purpose: The household-services satellite — a system of record and guarded control for everything that runs in the house; the network is its first slice.
+  Maturity: pre-bar (born 2026-08-19; bar PROPOSED in vision v0, unratified) — 2026-08-19
+  Posture: pre-bar
+  Roles: household
+
+Maker
+  Purpose: The physical-making satellite — electronics, sensors, local voice and vision, robotics as a lane; the real bar is that the family can add a device unaided.
+  Maturity: 0 of 2 — 2026-08-19
+  Posture: pre-bar
+  Roles: younger son, household
+
+Service
+  Purpose: Identify opportunities to serve, motivate, facilitate, and guide the arc from small first steps to broader action — facilitation only, and the system must not follow up.
+  Maturity: pre-bar (born 2026-08-14; bar deliberately unwritten) — 2026-08-14
+  Posture: pre-bar
+  Roles: household, daughter, younger son, elder son
+
+Ventures
+  Purpose: The opportunity engine — research, score and propose things the family could do that might make money, behind a ratified ethics filter.
+  Maturity: pre-bar (born 2026-08-14; bar deliberately unwritten) — 2026-08-16
+  Posture: pre-bar
+  Roles: household, elder son, younger son, daughter
+
+The studio
+  Purpose: An autonomous, frankly-AI game studio running as a team of bots on a cloud agent platform; the ring minds it from afar and does its compute for it today.
+  Maturity: BORN 2026-08-18 — 2026-08-19
+  Posture: pre-bar
+  Roles: household
+
+Infrastructure
+
+Dashboard
+  Purpose: The household's short-link layer and the home dashboard it is growing into — LAN-only, permanently.
+  Maturity: federation bar underdetermined — 2026-08-03
+  Posture: resting-point
+  Roles: household
+
+Privatebox (the home server)
+  Purpose: The permanent record of the house's private-lane box — NAS, local LLM and the ring's own git host — so the machine can be rebuilt, debugged and reasoned about without anyone's memory.
+  Maturity: background robustness lane — 2026-08-03
+  Posture: resting-point
+  Roles: household
