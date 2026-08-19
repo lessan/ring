@@ -1,5 +1,5 @@
 The ring — one page
-Reality as of 2026-08-19
+Reality as of 2026-08-20
 
 Lessan runs a personal AI ecosystem — about sixteen small repositories on a laptop and a home server, which he calls the ring. In his words it is "part experiment, part frontier pushing, and part useful in the immediate for myself and my family": a way to learn the frontier by putting it under real load, and a way to make regular, marked differences to the household. Publishing is deferred by his own ruling; this page is a bounded exception, shared discreetly.
 
@@ -19,7 +19,7 @@ Centre
 
 Brain
   Purpose: Lessan's second brain — total persistent memory plus a synthesis and relationship layer over every life domain, with a governed voice interface.
-  Maturity: 2 of 5 — 2026-08-19
+  Maturity: 2 of 5 — 2026-08-20
   Posture: moving
   Roles: owner, partner, daughter, younger son
 
@@ -39,7 +39,7 @@ Researcher
 
 Conductor
   Purpose: The rails — one front door for all off-session compute; members bring the what, conductor owns the when and the with-which-engine, and it cannot refuse work.
-  Maturity: 2 of 4 — 2026-08-19
+  Maturity: 2 of 4 — 2026-08-20
   Posture: resting-point
   Roles: no roles declared
 
@@ -59,13 +59,13 @@ Domain
 
 Bahá'í Companion
   Purpose: A query-driven intelligence system over a converted Bahá'í corpus — plain markdown, no database, no server; a trusted source other members consult, and the system the guidance reader and the public Q&A site are outputs of.
-  Maturity: 1 of 5 — 2026-08-11 session of Lessan's
+  Maturity: 1 of 5 — 2026-08-20 session of Lessan's
   Posture: moving
   Roles: owner
 
 Finance
   Purpose: AI-assisted investment research — monitoring, company analysis and deep secular-theme theses; the judgement half is parked on an interface in brain that does not exist yet.
-  Maturity: confidence-and-tooling bar — 2026-08-19 retired
+  Maturity: confidence-and-tooling bar — 2026-08-20 retired
   Posture: structurally-blocked
   Roles: owner
 
@@ -77,13 +77,13 @@ Gardener
 
 Home
   Purpose: The household-services satellite — a system of record and guarded control for everything that runs in the house; the network is its first slice.
-  Maturity: pre-bar (born 2026-08-19; bar PROPOSED in vision v0, unratified) — 2026-08-19
-  Posture: pre-bar
+  Maturity: 1 of 5 — 2026-08-20
+  Posture: moving
   Roles: household
 
 Maker
   Purpose: The physical-making satellite — electronics, sensors, local voice and vision, robotics as a lane; the real bar is that the family can add a device unaided.
-  Maturity: 0 of 2 — 2026-08-19
+  Maturity: pre-bar — 2026-08-20
   Posture: pre-bar
   Roles: younger son, household
 
