@@ -1,5 +1,5 @@
 The ring — one page
-Reality as of 2026-08-29
+Reality as of 2026-09-01
 
 Lessan runs a personal AI ecosystem — small repositories on a laptop and a home server, which he calls the ring. In his words it is "part experiment, part frontier pushing, and part useful in the immediate for myself and my family": a way to learn the frontier by putting it under real load, and a way to make regular, marked differences to the household. Publishing is deferred by his own ruling; this page is a bounded exception, shared discreetly.
 
@@ -19,7 +19,7 @@ Centre
 
 Brain
   Purpose: Lessan's second brain — total persistent memory plus a synthesis and relationship layer over every life domain, with a governed voice interface.
-  Maturity: 2 of 5 — 2026-08-29
+  Maturity: 2 of 5 — 2026-09-01
   Posture: moving
   Roles: owner, partner, daughter, younger son
 
@@ -27,31 +27,31 @@ Executive & rails
 
 Builder
   Purpose: The build orchestrator and Lessan's executive delegate — surveys every sibling, finds its own work, carries each to that sibling's own maturity bar, and stops.
-  Maturity: protectorate bar -- 0 now -> 2 promoted (own triggers fired — 2026-08-29
+  Maturity: protectorate bar -- legs 1/2 PARTIAL, leg 3 NOT MET; 2 now — 2026-09-01
   Posture: moving
   Roles: owner
 
 Researcher
   Purpose: The ring's research organ — take any topic and make Lessan an expert on it, usually as a package that builder turns into a system.
-  Maturity: 3 of 4 — 2026-08-29
+  Maturity: 2 of 4 — 2026-09-01
   Posture: moving
   Roles: owner
 
 Conductor
   Purpose: The rails — one front door for all off-session compute; members bring the what, conductor owns the when and the with-which-engine, and it cannot refuse work.
-  Maturity: 2 of 4 — 2026-08-29
+  Maturity: 2 of 4 — 2026-09-01
   Posture: resting-point
   Roles: no roles declared
 
 Jobs (engine adapter)
   Purpose: How any session in any repo hands work to another model — the engine adapter under conductor, and the canonical record of which model family suits which job.
-  Maturity: qualitative -- serves builder's own boundary (vision.md:166-167) — 2026-08-29
+  Maturity: qualitative -- serves builder's ledger-integrity boundary — 2026-09-01
   Posture: moving
   Roles: no roles declared
 
 Registry
   Purpose: The ring's book of members and the rules between them, and its outward face — the member list, the interaction rules, the public-surface register, and the ring's own documentation site with its nightly self-update.
-  Maturity: 5 of 5 — 2026-08-29
+  Maturity: 4 of 5 — 2026-09-01
   Posture: moving
   Roles: no roles declared
 
@@ -59,73 +59,73 @@ Domain
 
 Bahá'í Companion
   Purpose: A query-driven intelligence system over a converted Bahá'í corpus — plain markdown, no database, no server; a trusted source other members consult, and the system the guidance reader and the public Q&A site are outputs of.
-  Maturity: 1 of 5 — 2026-08-29
+  Maturity: 1 of 5 — 2026-09-01
   Posture: moving
   Roles: owner
 
 Finance
   Purpose: AI-assisted investment research — monitoring, company analysis and deep secular-theme theses; the judgement half is parked on an interface in brain that does not exist yet.
-  Maturity: confidence bar: B2 NOT MET, B1/B3/B4 PARTIAL; merge-bound slot was free, not dry — 2026-08-29
+  Maturity: B1/B2/B4 PARTIAL, B3 NOT MET — B2 self-admin still has zero unattended writers — 2026-09-01
   Posture: structurally-blocked
   Roles: owner
 
 Gardener
   Purpose: A system of record for a garden that already exists — an organiser before it is an advisor.
-  Maturity: 5 of 5 — 2026-08-29
+  Maturity: 5 of 5 — 2026-09-01
   Posture: resting-point
   Roles: owner, household
 
 Home
   Purpose: The household-services satellite — a system of record and guarded control for everything that runs in the house; the network is its first slice.
-  Maturity: 1 of 5 — 2026-08-29
+  Maturity: 3 of 5 — 2026-09-01
   Posture: moving
   Roles: household
 
 Reservoir
   Purpose: The knowledge-reservoir satellite — local, deep, living corpuses of whole fields, kept fresh and catalogued for consumers who have not asked yet, with five extraction lanes reading them.
-  Maturity: machinery complete — 2026-08-29
+  Maturity: machinery complete and green — 2026-09-01
   Posture: pre-bar
   Roles: no roles declared
 
 Convictions
   Purpose: The home for Lessan's own thinking about the world — it gathers and surfaces evidence so he can stay abreast of changes and revise the record.
-  Maturity: 0 of 5 legs MET — 2026-08-29
+  Maturity: 0 of 5 — 2026-09-01
   Posture: pre-bar
   Roles: owner
 
 Maker
   Purpose: The physical-making satellite — electronics, sensors, local voice and vision, robotics as a lane; grown is voice, sensors and vision all local, and three projects finished and still running unattended.
-  Maturity: 0 of 2 — 2026-08-29
+  Maturity: 0 of 2 — 2026-09-01
   Posture: pre-bar
   Roles: younger son, household
 
 Service
   Purpose: Identify opportunities to serve, motivate, facilitate, and guide the arc from small first steps to broader action — facilitation only, and the system must not follow up.
-  Maturity: Pre-bar by design, doctrine-gated dry runway — 2026-08-29
+  Maturity: Pre-bar by design — 2026-09-01
   Posture: pre-bar
   Roles: household, daughter, younger son, elder son
 
 Ventures
   Purpose: The opportunity engine — research, score and propose things the family could do that might make money, behind a ratified ethics filter.
-  Maturity: 0 of 4 — 2026-08-29
+  Maturity: 0 of 4 — 2026-09-01
   Posture: pre-bar
   Roles: household, elder son, younger son, daughter
 
 The studio
   Purpose: An autonomous, frankly-AI game studio running as a team of bots on a cloud agent platform; the ring minds it from afar and does its compute for it today.
-  Maturity: Pre-bar, flagship phase 4 of 6 — slice built, saves, and serves — 2026-08-29
+  Maturity: Pre-bar, flagship phase 4 of 6 -- slice green at 158/0, gate is his one storm — 2026-09-01
   Posture: pre-bar
   Roles: household
 
 Hearth
   Purpose: An AI children's-book studio in the making — books whose meaning lives in setting and relationships, never a sermon; ring-minded toward independence as an outward studio.
-  Maturity: 0 of 3 — 2026-08-29
+  Maturity: 0 of 3 — 2026-09-01
   Posture: moving
   Roles: owner, elder son, daughter, younger son
 
 Academy
   Purpose: Machine-assisted, AI-incorporated education — the pedagogy foundation as working doctrine, curriculum machinery, per-child curriculum overlays, and a self-improvement loop — with human tutoring highlighted and AI carrying the grunt work.
-  Maturity: 1 of 8 — 2026-08-29
+  Maturity: 4 of 8 — 2026-09-01
   Posture: pre-bar
   Roles: owner, partner, daughter, elder son, younger son
 
@@ -133,12 +133,12 @@ Infrastructure
 
 Dashboard
   Purpose: The household's short-link layer and the home dashboard it is growing into — LAN-only, permanently.
-  Maturity: qualitative -- A MET (9/9 surfaces 200, golinks 10/10), B PARTIAL (absent=3/4 — 2026-08-29
+  Maturity: qualitative - A PARTIAL — 2026-09-01
   Posture: resting-point
   Roles: household
 
 Privatebox (the home server)
   Purpose: The permanent record of the house's private-lane box — NAS, local LLM and the ring's own git host — so the machine can be rebuilt, debugged and reasoned about without anyone's memory.
-  Maturity: 0 of 4 legs — 2026-08-29
+  Maturity: 0 of 4 — 2026-09-01
   Posture: resting-point
   Roles: household
