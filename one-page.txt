@@ -83,7 +83,7 @@ Home
 
 Reservoir
   Purpose: The knowledge-reservoir satellite — local, deep, living corpuses of whole fields, kept fresh and catalogued for consumers who have not asked yet, with five extraction lanes reading them.
-  Maturity: Leg 2 MET — 2026-09-05
+  Maturity: Leg 2 MET; 1/4/5 PARTIAL; leg 3 NOT MET — governor `expand` REACHED and allocated once — 2026-09-05
   Posture: pre-bar
   Roles: no roles declared
 
