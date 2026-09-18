@@ -27,7 +27,7 @@ Executive & rails
 
 Builder
   Purpose: The build orchestrator and Lessan's executive delegate — surveys every sibling, finds its own work, carries each to that sibling's own maturity bar, and stops.
-  Maturity: protectorate bar legs 1+2 PARTIAL, leg 3 MET -- 3 of 14 exact-precision runways at bar — 2026-09-11
+  Maturity: 1 of 3 — 2026-09-11
   Posture: moving
   Roles: owner
 
