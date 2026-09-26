@@ -1,5 +1,5 @@
 The ring — one page
-Reality as of 2026-09-11
+Reality as of 2026-09-19
 
 Lessan runs a personal AI ecosystem — small repositories on a laptop and a home server, which he calls the ring. In his words it is "part experiment, part frontier pushing, and part useful in the immediate for myself and my family": a way to learn the frontier by putting it under real load, and a way to make regular, marked differences to the household. Publishing is deferred by his own ruling; this page is a bounded exception, shared discreetly.
 
@@ -39,7 +39,7 @@ Researcher
 
 Conductor
   Purpose: The rails — one front door for all off-session compute; members bring the what, conductor owns the when and the with-which-engine, and it cannot refuse work.
-  Maturity: 2 of 4 — 2026-09-11
+  Maturity: 2 of 4 — 2026-09-19
   Posture: resting-point
   Roles: no roles declared
 
@@ -119,7 +119,7 @@ The studio
 
 Hearth
   Purpose: An AI children's-book studio in the making — books whose meaning lives in setting and relationships, never a sermon; ring-minded toward independence as an outward studio.
-  Maturity: 0 of 3 — 2026-09-11
+  Maturity: 0 of 3 — 2026-09-19
   Posture: moving
   Roles: owner, elder son, daughter, younger son
 
