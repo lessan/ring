@@ -1,5 +1,5 @@
 The ring — one page
-Reality as of 2026-10-02
+Reality as of 2026-10-03
 
 Lessan runs a personal AI ecosystem — small repositories on a laptop and a home server, which he calls the ring. In his words it is "part experiment, part frontier pushing, and part useful in the immediate for myself and my family": a way to learn the frontier by putting it under real load, and a way to make regular, marked differences to the household. Publishing is deferred by his own ruling; this page is a bounded exception, shared discreetly.
 
@@ -83,7 +83,7 @@ Home
 
 Reservoir
   Purpose: The knowledge-reservoir satellite — local, deep, living corpuses of whole fields, kept fresh and catalogued for consumers who have not asked yet, with five extraction lanes reading them.
-  Maturity: Leg 1 MET — 2026-10-01
+  Maturity: Leg 1 MET — 2026-10-03
   Posture: pre-bar
   Roles: no roles declared
 
@@ -95,7 +95,7 @@ Convictions
 
 Maker
   Purpose: The physical-making satellite — electronics, sensors, local voice and vision, robotics as a lane; grown is voice, sensors and vision all local, and three projects finished and still running unattended.
-  Maturity: 0 of 2 — 2026-09-27
+  Maturity: 0 of 2 — 2026-10-03
   Posture: pre-bar
   Roles: younger son, household
 
@@ -139,6 +139,6 @@ Dashboard
 
 Privatebox (the home server)
   Purpose: The permanent record of the house's private-lane box — NAS, local LLM and the ring's own git host — so the machine can be rebuilt, debugged and reasoned about without anyone's memory.
-  Maturity: 3 of 4 — 2026-09-28
+  Maturity: 3 of 4 — 2026-10-03
   Posture: resting-point
   Roles: household
