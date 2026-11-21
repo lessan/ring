@@ -133,7 +133,7 @@ Infrastructure
 
 Dashboard
   Purpose: The household's short-link layer and the home dashboard it is growing into — LAN-only, permanently.
-  Maturity: 2 of 3 — 2026-10-24
+  Maturity: 3 of 3 — 2026-10-24
   Posture: resting-point
   Roles: household
 
